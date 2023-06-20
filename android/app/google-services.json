@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "177255873949",
+    "project_id": "cefetmg-44c8b",
+    "storage_bucket": "cefetmg-44c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177255873949:android:cc92ad844694a149e28374",
+        "android_client_info": {
+          "package_name": "me.guilhermeaug.cefetmg_automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177255873949-akstdfg1jn9u4ko8ssmgf9cj91jj03sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGsMmCVAJDxT8IUvsMXHYlV69d0S8rLgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177255873949-akstdfg1jn9u4ko8ssmgf9cj91jj03sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177255873949-3scldb3cpsonj57cugiomk1ee4bclfp3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.guilhermeaug.cefetmgAutomation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

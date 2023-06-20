@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>177255873949-3scldb3cpsonj57cugiomk1ee4bclfp3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.177255873949-3scldb3cpsonj57cugiomk1ee4bclfp3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlr4ZANHgPHjLkoCL5kBKwSPLqLJ1nH68</string>
+	<key>GCM_SENDER_ID</key>
+	<string>177255873949</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.guilhermeaug.cefetmgAutomation</string>
+	<key>PROJECT_ID</key>
+	<string>cefetmg-44c8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cefetmg-44c8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:177255873949:ios:84d220c6af437373e28374</string>
+</dict>
+</plist>
